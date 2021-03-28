@@ -1,15 +1,12 @@
 
 %  Non-Linear Optimization
 %  Univariate Method by - 
-%  AKASH SHAHADE (MT20CDM006)
-%  M.Tech., VNIT,Nagpur.
+%  AKASH SHAHADE 
+
 
 clc
 clear
 format long
-
-fprintf('Univariate Method by - \n')
-fprintf('AKASH SHAHADE - MT20CDM006\n\n');
 
 fprintf('For a function - \n')
 fprintf('f = a*X^2 + b*Y^2 + c*X*Y + d*X + e*Y\n\n');
